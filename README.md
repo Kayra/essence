@@ -15,7 +15,7 @@ However testing requires the installation of `pytest`, which can be done as foll
 ```bash
 python -m venv env
 source env/bin/activate
-pip install -r requirements
+pip install -r requirements.txt
 pytest
 ```
 
